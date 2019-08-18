@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\sefa5\desktop\c# projeler\space_shooter\space_shooter\source.cpp(42): warning C4309: 'initializing': truncation of constant value
+c:\users\sefa5\desktop\c# projeler\space_shooter\space_shooter\source.cpp(51): warning C4309: 'initializing': truncation of constant value
+c:\users\sefa5\desktop\c# projeler\space_shooter\space_shooter\source.cpp(60): warning C4309: 'initializing': truncation of constant value
+c:\users\sefa5\desktop\c# projeler\space_shooter\space_shooter\source.cpp(95): warning C4309: '=': truncation of constant value
+c:\users\sefa5\desktop\c# projeler\space_shooter\space_shooter\source.cpp(96): warning C4309: '=': truncation of constant value
+c:\users\sefa5\desktop\c# projeler\space_shooter\space_shooter\source.cpp(99): warning C4309: '=': truncation of constant value
+c:\users\sefa5\desktop\c# projeler\space_shooter\space_shooter\source.cpp(100): warning C4309: '=': truncation of constant value
+  Space_Shooter.vcxproj -> C:\Users\sefa5\Desktop\C# Projeler\Space_Shooter\Debug\Space_Shooter.exe
